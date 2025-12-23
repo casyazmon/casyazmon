@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Akap Azmon
+# Hi, I'm Akap Azmon
 
 ### Software Engineer | Backend & Full-Stack Developer
 
@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-azmon.dev-blue?style=flat&logo=google-chrome)](https://azmon.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/akap-azmon)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:akap@azmon.dev)
 [![Available](https://img.shields.io/badge/Available_for_Hire-✓-success?style=flat)](https://azmon.dev)
 
 </div>
@@ -183,7 +183,7 @@ I'm currently **available for hire** and open to exciting opportunities in backe
 
 - 🌐 **Portfolio:** [azmon.dev](https://azmon.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/akap-azmon](https://linkedin.com/in/akap-azmon)
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** akap@azmon.dev
 - 📄 **Resume:** [Download PDF](https://azmon.dev/akap%20azmon.pdf)
 
 ---
